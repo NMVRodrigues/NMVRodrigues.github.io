@@ -291,7 +291,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-scholar
+  - jekyll/scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -305,6 +305,7 @@ scholar:
   locale: en
   source: _publications
   bibliography: papers.bib
+  bibliography_template: bib
 
 # Archives
 #  Type
