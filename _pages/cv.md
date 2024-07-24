@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## General Information
-{: .cv-box}
+
 
 **Name:** Nuno Miguel Vasconcelos Rodrigues  
 **Date of Birth:** 4th December 1995  
 **Languages:** English (proficient), Portuguese (native), Spanish (beginner), Italian (beginner)  
 
 ## Education
-{: .cv-box}
+
 
 ### 2020-2024
 **PhD in Computer Science (awaiting defense)**  
@@ -28,5 +28,6 @@ Faculty of Sciences of the University of Lisbon, Portugal
 ### 2013-2018
 **BSc in Computer Science**  
 Faculty of Sciences of the University of Lisbon, Portugal  
+
 
 ## Research Experience
