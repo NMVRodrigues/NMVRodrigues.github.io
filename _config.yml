@@ -21,7 +21,7 @@ repository               : "nmvrodrigues.github.io"
 #               Additional customization can be done by editing /_includes/author-html
 author:
   # Biographic information
-  avatar           : "png"
+  avatar           : ""
   name             : "Your Sidebar Name"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300."
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
