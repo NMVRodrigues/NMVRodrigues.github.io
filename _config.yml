@@ -303,7 +303,7 @@ whitelist:
 scholar:
   style: apa
   locale: en
-  source: _publications
+  source: /_publications/
   bibliography: papers.bib
   bibliography_template: bib
 
