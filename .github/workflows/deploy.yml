@@ -6,7 +6,7 @@ on:
       - main  # Adjust this to your default branch
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,18 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: bundle install
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Print Ruby version
+        run: ruby --version
+
+      - name: Print Bundler version
+        run: bundler --version
+
+      - name: Print Jekyll version
+        run: bundle exec jekyll --version
 
       - name: Build site
         run: bundle exec jekyll build
