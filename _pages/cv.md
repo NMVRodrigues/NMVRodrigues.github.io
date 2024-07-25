@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[<i class="fa fa-download"></i> Download CV]({{ site.url }}/files/cv.pdf)
+<div class="wordwrap"><a href="{{ site.baseurl }}/files/cv.pdf">Download CV pdf</a>.</div>
 
 
 ## General Information

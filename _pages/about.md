@@ -15,7 +15,7 @@ Previously, during my masters, I worked with evolutionary computation, specifica
 
 I am a highly motivated researcher that loves working with AI, applying it to a vast array of domains and problems.
 
-In my free time, you will most likely catch me climbing or obsessing over watches.
+In my free time, you will most likely catch me climbing, obsessing over watches or doing Kaggle.
 
 <!---
 Site-wide configuration
