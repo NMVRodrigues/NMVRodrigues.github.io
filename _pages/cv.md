@@ -36,6 +36,12 @@ author_profile: true
 | 2021 - PhD Grant by Fundação para a Ciência e a Tecnologia (FCT), Lisbon, Portugal |
 | 2020 - Merit Scholarship by Direção-Geral do Ensino Superior (DGES), Lisbon, Portugal |
 
+
 ## Projects
 
 <div class="wordwrap">Information about the projects can be found on the <a href="{{ site.baseurl }}/projects/">Projects tab</a>.</div>
+
+
+## Teaching and Supervision
+
+<div class="wordwrap">Information about teaching and supervision can be found on the <a href="{{ site.baseurl }}/teaching/">Teaching tab</a>.</div>
