@@ -7,12 +7,13 @@ author_profile: true
 
 [<i class="fa fa-download"></i> Download CV]({{ site.url }}/files/cv.pdf)
 
+
 ## General Information
 
 
-**Name:** Nuno Miguel Vasconcelos Rodrigues  
-**Date of Birth:** 4th December 1995  
-**Languages:** English (proficient), Portuguese (native), Spanish (beginner), Italian (beginner)  
+| **Name:** Nuno Miguel Vasconcelos Rodrigues                                                      |
+| **Date of Birth:** 4th December 1995                                                             |
+| **Languages:** English (proficient), Portuguese (native), Spanish (beginner), Italian (beginner) |
 
 
 ## Education
