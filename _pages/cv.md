@@ -18,6 +18,9 @@ author_profile: true
 
 ## Education
 
+| ### 2020-2024**PhD in Computer Science (awaiting defense)**Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
+| ### 2020-2024**PhD in Computer Science (awaiting defense)**Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
+| ### 2020-2024**PhD in Computer Science (awaiting defense)**Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
 
 ### 2020-2024 
 **PhD in Computer Science (awaiting defense)**  
