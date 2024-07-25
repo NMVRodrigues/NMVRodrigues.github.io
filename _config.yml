@@ -24,7 +24,7 @@ author:
   avatar           : "pfp.png"
   name             : "Links"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Highly motivated AI researcher with a keen interest on providing valuable solutions for multidisciplinary projects"
   location         : "Lisbon, Portugal"
   employer         : "LASIGE"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
