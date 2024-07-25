@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[<i class="fa fa-download"></i> Download CV](./files/pdf/cv.pdf)
+[<i class="fa fa-download"></i> Download CV](../files/pdf/cv.pdf)
 
 ## General Information
 
