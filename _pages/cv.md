@@ -19,44 +19,22 @@ author_profile: true
 ## Education
 
 | **2020-2024**<br />**PhD in Computer Science (awaiting defense)**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
-| **2020-2024**<br />**PhD in Computer Science (awaiting defense)**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
-| **2020-2024**<br />**PhD in Computer Science (awaiting defense)**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
-
-### 2020-2024 
-**PhD in Computer Science (awaiting defense)**  
-Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal  
-*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer*  
-
-### 2018-2020 
-**MSc in Computer Science (with honours)**  
-Faculty of Sciences of the University of Lisbon, Portugal  
-*Thesis: Exploring Neuroevolution Fitness Landscapes for Optimization and Generalization*  
-
-### 2013-2018 
-**BSc in Computer Science**  
-Faculty of Sciences of the University of Lisbon, Portugal  
+| **2018-2020**<br />**MSc in Computer Science (with honours)**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Exploring Neuroevolution Fitness Landscapes for Optimization and Generalization* |
+| **2013-2018**<br />**BSc in Computer Science**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br /> |
 
 
 ## Technical Skills
 
-### Programming
-Python (advanced user, 6+ years), Java (beginner)  
-### Machine-learning frameworks
-Traditional ML - scikit-learn (6+ years)  
-Deep learning - torch (4+ years), tensorflow, nnUNet, Ultralytics  
-### Machine-learning fields
-Computer-vision  
-Tabular data  
-Evolutionary computation  
-Supervised, Unsupervised, Semi-Supervised  
-Classification, Regression, Segmentation, Detection  
+| **Programming**<br />Python (advanced user, 6+ years), Java (beginner) |
+| **Machine-learning frameworks**<br />Traditional ML - scikit-learn (6+ years)<br />Deep learning - torch (4+ years), tensorflow, nnUNet, Ultralytics |
+| **Machine-learning fields**<br />Computer-vision, Tabular data, Evolutionary computation<br />Supervised, Unsupervised, Semi-Supervised<br />Classification, Regression, Segmentation, Detection |
 
 
 ## Honors and Awards
 
-2023 - Academic and Social Merit Scholarship by Huawei/.PT, Lisbon, Portugal  
-2021 - PhD Grant by Fundação para a Ciência e a Tecnologia (FCT), Lisbon, Portugal  
-2020 - Merit Scholarship by Direção-Geral do Ensino Superior (DGES), Lisbon, Portugal  
+| 2023 - Academic and Social Merit Scholarship by Huawei/.PT, Lisbon, Portugal |
+| 2021 - PhD Grant by Fundação para a Ciência e a Tecnologia (FCT), Lisbon, Portugal |
+| 2020 - Merit Scholarship by Direção-Geral do Ensino Superior (DGES), Lisbon, Portugal |
 
 ## Projects
 
