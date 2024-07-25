@@ -33,4 +33,27 @@ Faculty of Sciences of the University of Lisbon, Portugal
 Faculty of Sciences of the University of Lisbon, Portugal  
 
 
-## Research Experience
+## Technical Skills
+
+### Programming
+Python (advanced user, 6+ years), Java (beginner)  
+### Machine-learning frameworks
+Traditional ML - scikit-learn (6+ years)  
+Deep learning - torch (4+ years), tensorflow, nnUNet, Ultralytics  
+### Machine-learning fields
+Computer-vision  
+Tabular data  
+Evolutionary computation  
+Supervised, Unsupervised, Semi-Supervised  
+Classification, Regression, Segmentation, Detection  
+
+
+## Honors and Awards
+
+2023 - Academic and Social Merit Scholarship by Huawei/.PT, Lisbon, Portugal  
+2021 - PhD Grant by Fundação para a Ciência e a Tecnologia (FCT), Lisbon, Portugal  
+2020 - Merit Scholarship by Direção-Geral do Ensino Superior (DGES), Lisbon, Portugal  
+
+## Projects
+
+<div class="wordwrap">Information about the projects can be found on the <a href="{{ site.baseurl }}/projects/">Projects tab</a>.</div>
