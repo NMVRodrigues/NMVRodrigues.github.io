@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Nuno Rodrigues"
 title_separator          : "-"
 name                     : &name "Nuno M. V. Rodrigues"
-description              : &description "Ai researcher"
+description              : &description "Senior Data Scientist"
 url                      : https://nmvrodrigues.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nmvrodrigues.github.io"
@@ -24,20 +24,20 @@ author:
   avatar           : "pfp.png"
   name             : "Links"
   pronouns         : "he/him"  
-  bio              : "Highly motivated AI researcher with a keen interest on providing valuable solutions for multidisciplinary projects"
+  bio              : "AI researcher with a passion for solutions with measurable real world impact"
   location         : "Lisbon, Portugal"
-  employer         : "LASIGE"
+  employer         : "Zendesk"
   uri              : # URL
   email            : "nuno.mvrodrigues1@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.pt/citations?user=Bo0AfbkAAAAJ&hl=en#"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/my-orcid?orcid=0000-0001-5312-8276"
-  semantic         : # URL
-  pubmed           : #
-  researchgate     : "https://www.researchgate.net/profile/Nuno-Rodrigues-20"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/my-orcid?orcid=0000-0001-5312-8276"
+  #semantic         : # URL
+  #pubmed           : #
+  #researchgate     : "https://www.researchgate.net/profile/Nuno-Rodrigues-20"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
