@@ -1,20 +1,19 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-<!--
-## Projects organized
+## Current projects
 
+**Name:** RAGFlix  
+**Description:** Multi-Agent RAG system for movie and series recommendations. Pet project for fun and learning new tools. 
 
-**Name:** Sustainable fisheries stock assessment  
-**Description:** Developing a project proposal for the SACCCT FCT grants, regarding developing computer vision models for fisheries stock assessment using fish otolith data.   
-**Institutions:** LASIGE and IPMA
-.-->
+**Name:** Stealth Project  
+**Description:** Computer vision product for sports. Including player tracking, performance analysis and action recognition and comparison.
 
-## Projects partaken
+## Academic funded projects
 
 
 **Name:** Horizons2020 ProCAncer-I  
