@@ -11,23 +11,22 @@ author_profile: true
 ## General Information
 
 
-| **Name:** Nuno Miguel Vasconcelos Rodrigues                                                      |
-| **Date of Birth:** 4th December 1995                                                             |
-| **Languages:** English (proficient), Portuguese (native), Spanish (beginner), Italian (beginner) |
+| **Name:** Nuno Miguel Vasconcelos Rodrigues                                                      |                                                         |
+| **Languages:** English (proficient), Portuguese (native), Spanish (A2) |
 
 
 ## Education
 
-| **2020-2024**<br />**PhD in Computer Science (awaiting defense)**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
+| **2020-2024**<br />**PhD in Computer Science**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Deep Learning Models for Clinical Assessment of Prostate Cancer* |
 | **2018-2020**<br />**MSc in Computer Science (with honours)**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br />*Thesis: Exploring Neuroevolution Fitness Landscapes for Optimization and Generalization* |
 | **2013-2018**<br />**BSc in Computer Science**<br />Faculty of Sciences of the University of Lisbon + Champalimaud Foundation, Portugal<br /> |
 
 
 ## Technical Skills
 
-| **Programming**<br />Python (advanced user, 6+ years), Java (beginner) |
-| **Machine-learning frameworks**<br />Traditional ML - scikit-learn (6+ years)<br />Deep learning - torch (4+ years), tensorflow, nnUNet, Ultralytics |
-| **Machine-learning fields**<br />Computer-vision, Tabular data, Evolutionary computation<br />Supervised, Unsupervised, Semi-Supervised<br />Classification, Regression, Segmentation, Detection |
+| **Programming**<br />Python (advanced user, 6+ years), SQL, Java (beginner) |
+| **Machine-learning frameworks**<br />Traditional ML - scikit-learn (6+ years), boosting models, etc<br />Deep learning - torch (4+ years), tensorflow, nnUNet, Ultralytics, Supervision, YOLO |
+| **Machine-learning fields**<br />Computer-vision, Tabular data, Evolutionary computation, Recommendations, RAG, GenAI<br />Supervised, Unsupervised, Semi-Supervised<br />Classification, Regression, Segmentation, Object Detection |
 
 
 ## Honors and Awards

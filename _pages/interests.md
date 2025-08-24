@@ -11,6 +11,7 @@ List of things im currently working on, learning, or just having fun experimenti
 GNNs have so many utilities, from leveraging knowledge graphs for recommendations, to modeling spatial and temporal relationships in video data for action recognition. They are a world of their own and really interesting from a technical perspective. Having fun implementing and playing around with them
 
 # Agentic RAG
-The goal of this project is to get familiar with docker and minimal UI libraries (e.g streamlit) to serve previously developed models. The idea is to utilize a previously developed fish otolith detection model, make a simple docker and serve it on a basic and easy to use app that supports single image inference, as well as batch inference from a folder.  
-A minimal version of this project is already available [here](https://github.com/NMVRodrigues/otolith_detection).
+Given the current hype bubble around GenAI this seemed like a fitting projects to get more accustomed to agent feedback loops and new-ish frameworks. Despite that, it's an interesting problem with personal use cases, since I can continuously add ratings into metadata and actually used it on a day to day basis.
 
+# Model serving and deploying
+Learning on how to deploy and serve models or regular household systems (through Flash, Docker and maybe AWS if I can get free credits), and on edge devices such as phones.
