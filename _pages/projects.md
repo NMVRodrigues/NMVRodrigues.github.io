@@ -8,7 +8,7 @@ author_profile: true
 ## Current projects
 
 **Name:** RAGFlix  
-**Description:** Multi-Agent RAG system for movie and series recommendations. Pet project for fun and learning new tools. 
+**Description:** Multi-Agent RAG system for movie and series recommendations. Pet project for fun and learning new tools. [Project link](https://github.com/NMVRodrigues/RAGFlix).
 
 **Name:** Stealth Project  
 **Description:** Computer vision product for sports. Including player tracking, performance analysis and action recognition and comparison.
