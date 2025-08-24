@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+Currently a Senior Data Scientist @ Zendesk, working for ED&A team, focusing on leveraging data-driven insights to serve our internal stakeholder groups.
 
-I am currently finishing my PhD @ [LASIGE](https://www.lasige.pt/), FCUL and [CCIG](https://www.fchampalimaud.org/research/groups/papanikolaou), Champalimaud Foundation.  
-My PhD falls under the scope of the [ProCAncer-I](https://www.procancer-i.eu/) project, and was focused on developing novel models for the clinical assessment of prostate cancer.
+Previously PhD @ [LASIGE](https://www.lasige.pt/) (FCUL) and [CCIG](https://www.fchampalimaud.org/research/groups/papanikolaou) (Champalimaud Foundation).  
+My PhD fell under the scope of the [ProCAncer-I](https://www.procancer-i.eu/) project, and was focused on developing novel models for the clinical assessment of prostate cancer.
 
-Previously, during my masters, I worked with evolutionary computation, specifically, Neuroevolution, for the automatic design and fitness landscape analysis of computer vision models.
 
-I am a highly motivated researcher that loves working with AI, applying it to a vast array of domains and problems.
 
-In my free time, you will most likely catch me climbing, obsessing over watches or doing Kaggle.
+I am a highly motivated AI researcher that loves to develop machine and deep learning solutions to tackle real-world problems. I have experience in various domains, including healthcare, finance, computer vision, optimization and evolutionary algorithms, as well as recommendations and the current GenAI trends (RAG, Agentic Systems).
+
+In my free time, you will most likely catch me climbing, talking about fashion and watches or doing Kaggle / some interesting projects.
+
 
 <!---
 Site-wide configuration
