@@ -13,7 +13,7 @@ author_profile: true
 **Name:** Padel-AI  
 **Description:** Computer vision product for Padel sports analytics. Including player tracking, performance analysis and action recognition and comparison.
 
-<video width="320" height="240" controls>
+<video width="480" height="360" controls>
   <source src="/files/twt.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
