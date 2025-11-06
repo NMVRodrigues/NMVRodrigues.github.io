@@ -10,8 +10,10 @@ author_profile: true
 **Name:** RAGFlix  
 **Description:** Multi-Agent RAG system for movie and series recommendations. Pet project for fun and learning new tools. [Project link](https://github.com/NMVRodrigues/RAGFlix).
 
-**Name:** Stealth Project  
-**Description:** Computer vision product for sports. Including player tracking, performance analysis and action recognition and comparison.
+**Name:** Padel-AI  
+**Description:** Computer vision product for Padel sports analytics. Including player tracking, performance analysis and action recognition and comparison.
+
+**Video:** /files/twt.mp4
 
 ## Academic funded projects
 
